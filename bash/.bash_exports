@@ -1,0 +1,7 @@
+if ! [[ "$PATH" =~ "$HOME/.local/bin:$HOME/bin:" ]]; then
+    PATH="$HOME/.local/bin:$HOME/bin:$PATH"
+fi
+export PATH=/home/sctech/git/python-src:$PATH
+export EDITOR=/usr/bin/code
+export DEVKITPPC=/opt/devkitpro/devkitPPC
+export NVM_DIR="$HOME/.nvm"
