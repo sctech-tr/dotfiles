@@ -1,0 +1,7 @@
+{
+    "workbench.iconTheme": "catppuccin-mocha",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "redhat.telemetry.enabled": false,
+    "git.confirmSync": false,
+    "git.autofetch": true
+}
